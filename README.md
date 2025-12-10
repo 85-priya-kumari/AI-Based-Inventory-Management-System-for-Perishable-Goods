@@ -1,1 +1,1 @@
-# AI-Based-Inventory-Management-System-for-Perishable-Goods
+# Smart-Warehouse-Goods-Monitoring-Forecasting
